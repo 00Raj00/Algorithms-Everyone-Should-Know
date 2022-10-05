@@ -2,7 +2,7 @@
 
 1) Searching                                                                                                                                                           
 --> [Iterative Binary Search](https://github.com/00Raj00/Algorithms-You-Should-Know/blob/main/Searching/Iterative-Binary-Search.cpp)                                   
---> Recursive Binary Search
+--> [Recursive Binary Search](https://github.com/00Raj00/Algorithms-You-Should-Know/blob/main/Searching/Recursive-Binary-Search.cpp)
                                                                                                                                                                        
 2) Sorting                                                                                                                                                             
 --> Insertion Sort                                                                                                                                                     
