@@ -1,7 +1,7 @@
 # Algorithms-You-Should-Know
 
 1) Searching                                                                                                                                                           
---> Iterative Binary Search                                                                                                                                             
+--> [Iterative Binary Search](https://github.com/00Raj00/Algorithms-You-Should-Know/blob/main/Searching/Iterative-Binary-Search.cpp)                                   
 --> Recursive Binary Search
                                                                                                                                                                        
 2) Sorting                                                                                                                                                             
