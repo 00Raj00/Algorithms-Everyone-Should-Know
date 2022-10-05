@@ -5,7 +5,7 @@
 --> [Recursive Binary Search](https://github.com/00Raj00/Algorithms-You-Should-Know/blob/main/Searching/Recursive-Binary-Search.cpp)
                                                                                                                                                                        
 2) Sorting                                                                                                                                                             
---> Insertion Sort                                                                                                                                                     
+--> [Insertion Sort](https://github.com/00Raj00/Algorithms-You-Should-Know/blob/main/Sorting/Insertion-Sort.cpp)                                                       
 --> Selection Sort                                                                                                                                                     
 --> Bubble Sort                                                                                                                                                         
 --> Quick Sort                                                                                                                                                         
