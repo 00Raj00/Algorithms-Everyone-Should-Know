@@ -33,4 +33,3 @@ int main(void) {
 		cout << "Element is found at index : "<< result;
 	return 0;
 }
-
