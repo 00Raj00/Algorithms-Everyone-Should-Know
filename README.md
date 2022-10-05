@@ -7,7 +7,7 @@
 2) Sorting                                                                                                                                                             
 --> [Insertion Sort](https://github.com/00Raj00/Algorithms-You-Should-Know/blob/main/Sorting/Insertion-Sort.cpp)                                                       
 --> [Selection Sort](https://github.com/00Raj00/Algorithms-You-Should-Know/blob/main/Sorting/Selection-Sort.cpp)                                                       
---> Bubble Sort                                                                                                                                                         
+--> [Bubble Sort](https://github.com/00Raj00/Algorithms-You-Should-Know/blob/main/Sorting/Bubble-Sort.cpp)                                                             
 --> Quick Sort                                                                                                                                                         
 --> Merge Sort                                                                                                                                                         
                                                                                                                                                                        
