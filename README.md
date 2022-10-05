@@ -1,9 +1,9 @@
 # Algorithms-You-Should-Know
 
-1) Searching
---> Iterative Binary Search
+1) Searching                                                                                                                                                           
+--> Iterative Binary Search                                                                                                                                             
 --> Recursive Binary Search
-
+                                                                                                                                                                       
 2) Sorting 
 --> Insertion Sort
 --> Selection Sort
