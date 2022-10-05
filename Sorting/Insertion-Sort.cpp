@@ -29,4 +29,3 @@ int main () {
     printArray(arr, N);
     return 0;
 }
-
