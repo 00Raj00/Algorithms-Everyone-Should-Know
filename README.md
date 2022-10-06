@@ -8,7 +8,7 @@
 --> [Insertion Sort](https://github.com/00Raj00/Algorithms-You-Should-Know/blob/main/Sorting/Insertion-Sort.cpp)                                                       
 --> [Selection Sort](https://github.com/00Raj00/Algorithms-You-Should-Know/blob/main/Sorting/Selection-Sort.cpp)                                                       
 --> [Bubble Sort](https://github.com/00Raj00/Algorithms-You-Should-Know/blob/main/Sorting/Bubble-Sort.cpp)                                                             
---> Quick Sort                                                                                                                                                         
+--> [Quick Sort](https://github.com/00Raj00/Algorithms-You-Should-Know/blob/main/Sorting/Quick-Sort.cpp)                                                               
 --> Merge Sort                                                                                                                                                         
                                                                                                                                                                        
 3) Heap                                                                                                                                                                 
