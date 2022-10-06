@@ -9,7 +9,7 @@
 --> [Selection Sort](https://github.com/00Raj00/Algorithms-You-Should-Know/blob/main/Sorting/Selection-Sort.cpp)                                                       
 --> [Bubble Sort](https://github.com/00Raj00/Algorithms-You-Should-Know/blob/main/Sorting/Bubble-Sort.cpp)                                                             
 --> [Quick Sort](https://github.com/00Raj00/Algorithms-You-Should-Know/blob/main/Sorting/Quick-Sort.cpp)                                                               
---> Merge Sort                                                                                                                                                         
+--> [Merge Sort](https://github.com/00Raj00/Algorithms-You-Should-Know/blob/main/Sorting/Merge-Sort.cpp)                                                               
                                                                                                                                                                        
 3) Heap                                                                                                                                                                 
 --> Max Heap                                                                                                                                                           
