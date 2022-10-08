@@ -13,7 +13,7 @@
                                                                                                                                                                        
 3) Heap                                                                                                                                                                 
 --> [Max Heap](https://github.com/00Raj00/Algorithms-You-Should-Know/blob/main/Sorting/Max-Heap.cpp)                                                                   
---> Min Heap                                                                                                                                                           
+--> [Min Heap](https://github.com/00Raj00/Algorithms-You-Should-Know/blob/main/Sorting/Min-Heap.cpp)                                                                   
 --> Priority Queue                                                                                                                                                     
                                                                                                                                                                        
 4) Greedy Method                                                                                                                                                       
