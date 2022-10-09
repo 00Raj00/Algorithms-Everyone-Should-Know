@@ -12,8 +12,8 @@
 --> [Merge Sort](https://github.com/00Raj00/Algorithms-You-Should-Know/blob/main/Sorting/Merge-Sort.cpp)                                                               
                                                                                                                                                                        
 3) Heap                                                                                                                                                                 
---> [Max Heap](https://github.com/00Raj00/Algorithms-You-Should-Know/blob/main/Heap/Max-Heap.cpp)                                                                   
---> [Min Heap](https://github.com/00Raj00/Algorithms-You-Should-Know/blob/main/Sorting/Min-Heap.cpp)                                                                   
+--> [Max Heap](https://github.com/00Raj00/Algorithms-You-Should-Know/blob/main/Heap/Max-Heap.cpp)                                                                       
+--> [Min Heap](https://github.com/00Raj00/Algorithms-You-Should-Know/blob/main/Heap/Min-Heap.cpp)                                                                       
                                                                                                                                                                        
 4) Greedy Method                                                                                                                                                       
 --> Dijkstra's Algorithm                                                                                                                                               
