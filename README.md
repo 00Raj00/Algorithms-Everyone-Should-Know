@@ -16,7 +16,7 @@
 --> [Min Heap](https://github.com/00Raj00/Algorithms-You-Should-Know/blob/main/Heap/Min-Heap.cpp)                                                                       
                                                                                                                                                                        
 4) Greedy Method                                                                                                                                                       
---> Dijkstra's Algorithm                                                                                                                                               
+--> [Dijkstra's Algorithm](https://github.com/00Raj00/Algorithms-You-Should-Know/blob/main/Greedy%20Method/Dijkstra's-Algorithm.cpp)                                   
 --> KnapSack Problem                                                                                                                                                   
                                                                                                                                                                        
 5) Spanning Tree                                                                                                                                                       
