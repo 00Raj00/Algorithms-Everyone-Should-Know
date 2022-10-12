@@ -17,7 +17,7 @@
                                                                                                                                                                        
 4) Greedy Method                                                                                                                                                       
 --> [Dijkstra's Algorithm](https://github.com/00Raj00/Algorithms-You-Should-Know/blob/main/Greedy%20Method/Dijkstra's-Algorithm.cpp)                                   
---> KnapSack Problem                                                                                                                                                   
+--> [KnapSack Problem](https://github.com/00Raj00/Algorithms-You-Should-Know/blob/main/Greedy%20Method/Knapsack-Problem.cpp)                                           
                                                                                                                                                                        
 5) Spanning Tree                                                                                                                                                       
 --> Prim's Algorithm                                                                                                                                                   
