@@ -20,7 +20,7 @@
 --> [KnapSack Problem](https://github.com/00Raj00/Algorithms-You-Should-Know/blob/main/Greedy%20Method/Knapsack-Problem.cpp)                                           
                                                                                                                                                                        
 5) Spanning Tree                                                                                                                                                       
---> Prim's Algorithm                                                                                                                                                   
+--> [Prim's Algorithm](https://github.com/00Raj00/Algorithms-You-Should-Know/blob/main/Spanning%20Tree/Prim's-Algorithm.cpp)                                           
 --> Kruskal's Algorithm                                                                                                                                                 
                                                                                                                                                                        
 6) Graph                                                                                                                                                               
