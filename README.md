@@ -21,7 +21,7 @@
                                                                                                                                                                        
 5) Spanning Tree                                                                                                                                                       
 --> [Prim's Algorithm](https://github.com/00Raj00/Algorithms-You-Should-Know/blob/main/Spanning%20Tree/Prim's-Algorithm.cpp)                                           
---> Kruskal's Algorithm                                                                                                                                                 
+--> [Kruskal's Algorithm](https://github.com/00Raj00/Algorithms-You-Should-Know/blob/main/Spanning%20Tree/Kruskal's-Algorithm.cpp)                                     
                                                                                                                                                                        
 6) Graph                                                                                                                                                               
 --> Breadth First Search                                                                                                                                               
