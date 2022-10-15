@@ -24,7 +24,7 @@
 --> [Kruskal's Algorithm](https://github.com/00Raj00/Algorithms-You-Should-Know/blob/main/Spanning%20Tree/Kruskal's-Algorithm.cpp)                                     
                                                                                                                                                                        
 6) Graph                                                                                                                                                               
---> Breadth First Search                                                                                                                                               
+--> [Breadth First Search](https://github.com/00Raj00/Algorithms-You-Should-Know/blob/main/Graph/Breadth-First-Search.cpp)                                             
 --> Depth First Search                                                                                                                                                 
                                                                                                                                                                        
 7) Dynamic Programming                                                                                                                                                 
