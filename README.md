@@ -25,7 +25,7 @@
                                                                                                                                                                        
 6) Graph                                                                                                                                                               
 --> [Breadth First Search](https://github.com/00Raj00/Algorithms-You-Should-Know/blob/main/Graph/Breadth-First-Search.cpp)                                             
---> Depth First Search                                                                                                                                                 
+--> [Depth First Search](https://github.com/00Raj00/Algorithms-You-Should-Know/blob/main/Graph/Depth-First-Search.cpp)                                                 
                                                                                                                                                                        
 7) Dynamic Programming                                                                                                                                                 
 --> Fibonacci Series - 1 (using top-down approach)                                                                                                                     
