@@ -28,7 +28,7 @@
 --> [Depth First Search](https://github.com/00Raj00/Algorithms-You-Should-Know/blob/main/Graph/Depth-First-Search.cpp)                                                 
                                                                                                                                                                        
 7) Dynamic Programming                                                                                                                                                 
---> [Fibonacci Series]                                                                                                                                                 
+--> [Fibonacci Series](https://github.com/00Raj00/Algorithms-You-Should-Know/blob/main/Dynamic%20Programming/Fibonacci-Series.cpp)                                     
 --> [Longest Increasing Subsequence](https://github.com/00Raj00/Algorithms-You-Should-Know/blob/main/Dynamic%20Programming/Longest-Increasing-Subsequence.cpp)         
 --> Longest Common Sub-Sequence                                                                                                                                         
 --> Binomial Coefficient                                                                                                                                               
