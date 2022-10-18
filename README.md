@@ -28,9 +28,8 @@
 --> [Depth First Search](https://github.com/00Raj00/Algorithms-You-Should-Know/blob/main/Graph/Depth-First-Search.cpp)                                                 
                                                                                                                                                                        
 7) Dynamic Programming                                                                                                                                                 
---> Fibonacci Series - 1 (using top-down approach)                                                                                                                     
---> Fibonacci Series - 2 (using bottom-up approach)                                                                                                                     
---> Longest Integer Sequence                                                                                                                                           
+--> [Fibonacci Series]                                                                                                                                                 
+--> [Longest Increasing Subsequence](https://github.com/00Raj00/Algorithms-You-Should-Know/blob/main/Dynamic%20Programming/Longest-Increasing-Subsequence.cpp)         
 --> Longest Common Sub-Sequence                                                                                                                                         
 --> Binomial Coefficient                                                                                                                                               
 --> Travelling Salesman Problem                                                                                                                                         
